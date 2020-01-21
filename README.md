@@ -1,0 +1,1 @@
+# SLC_BOOT_NORMAL
